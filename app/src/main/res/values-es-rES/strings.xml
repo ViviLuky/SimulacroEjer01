@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimulacroEjer01</string>
+    <string name="cigarrilo">Cigarrillo</string>
+    <string name="name_title">Estas fumando un cigarrillo</string>
+    <string name="dinero">Dinero</string>
+</resources>
